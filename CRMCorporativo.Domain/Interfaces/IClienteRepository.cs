@@ -4,7 +4,7 @@ namespace CRMCorporativo.Domain.Interfaces;
 
 public interface IClienteRepository
 {
-    Task<IEnumerable<Cliente>> GetProductsAsync();
+    Task<IEnumerable<Cliente>> GetClientesAsync();
     Task<Cliente> GetByIdAsync(int? id);
 
     //Task<Product> GetProductCategoryAsync(int? id);
