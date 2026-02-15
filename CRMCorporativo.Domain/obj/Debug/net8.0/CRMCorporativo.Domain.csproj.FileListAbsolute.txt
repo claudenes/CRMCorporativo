@@ -1,0 +1,12 @@
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\bin\Debug\net8.0\CRMCorporativo.Domain.deps.json
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\bin\Debug\net8.0\CRMCorporativo.Domain.dll
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\bin\Debug\net8.0\CRMCorporativo.Domain.pdb
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\obj\Debug\net8.0\CRMCorporativo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\obj\Debug\net8.0\CRMCorporativo.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\obj\Debug\net8.0\CRMCorporativo.Domain.AssemblyInfo.cs
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\obj\Debug\net8.0\CRMCorporativo.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\obj\Debug\net8.0\CRMCorporativo.Domain.sourcelink.json
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\obj\Debug\net8.0\CRMCorporativo.Domain.dll
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\obj\Debug\net8.0\refint\CRMCorporativo.Domain.dll
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\obj\Debug\net8.0\CRMCorporativo.Domain.pdb
+C:\Projetos\CRMCorporativo\CRMCorporativo.Domain\obj\Debug\net8.0\ref\CRMCorporativo.Domain.dll
