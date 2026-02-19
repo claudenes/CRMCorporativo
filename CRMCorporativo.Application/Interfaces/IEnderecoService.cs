@@ -4,7 +4,7 @@ namespace CRMCorporativo.Application.Interfaces;
 
 public interface IEnderecoService
 {
-    Task<IEnumerable<EnderecoDTO>> GetCategories();
+    Task<IEnumerable<EnderecoDTO>> GetEnderecos();
     Task<EnderecoDTO> GetById(int? id);
     Task Add(EnderecoDTO enderecoDto);
     Task Update(EnderecoDTO enderecoDto);

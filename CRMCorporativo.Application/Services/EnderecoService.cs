@@ -16,9 +16,9 @@ public class EnderecoService : IEnderecoService
         _mapper = mapper;
     }
 
-    public async Task<IEnumerable<EnderecoDTO>> GetCategories()
+    public async Task<IEnumerable<EnderecoDTO>> GetEnderecos()
     {
-        var enderecoEntity = await _enderecoRepository.GetCategories();
+        var enderecoEntity = await _enderecoRepository.GetEnderecos();
         return _mapper.Map<IEnumerable<EnderecoDTO>>(enderecoEntity);
     }
 

@@ -4,7 +4,7 @@ namespace CRMCorporativo.Domain.Interfaces;
 
 public interface IEnderecoRepository
 {
-    Task<IEnumerable<Endereco>> GetCategories();
+    Task<IEnumerable<Endereco>> GetEnderecos();
     Task<Endereco> GetById(int? id);
 
     Task<Endereco> Create(Endereco endereco);
