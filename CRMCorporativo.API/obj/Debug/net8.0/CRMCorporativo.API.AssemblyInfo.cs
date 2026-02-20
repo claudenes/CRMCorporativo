@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMCorporativo.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48956a0f4a49d34f617c320a37cc37fdcc3edb76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d80cfbe8df334026def7cff207f80aaae00a0e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMCorporativo.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMCorporativo.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

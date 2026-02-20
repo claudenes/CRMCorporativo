@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMCorporativo.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc932f28df4ba76ab5dde3d0906549d9d780587e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d80cfbe8df334026def7cff207f80aaae00a0e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMCorporativo.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMCorporativo.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

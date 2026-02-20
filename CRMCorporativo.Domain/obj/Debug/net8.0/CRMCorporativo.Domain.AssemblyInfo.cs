@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMCorporativo.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+952ea2ef7694908724d11177b93579a78d570fe4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d80cfbe8df334026def7cff207f80aaae00a0e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMCorporativo.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMCorporativo.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

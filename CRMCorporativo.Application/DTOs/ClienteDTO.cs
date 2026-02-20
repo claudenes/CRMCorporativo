@@ -41,6 +41,6 @@ public class ClienteDTO
     [JsonIgnore]
     public Endereco? Endereco { get; set; }
 
-    [DisplayName("Categories")]
-    public int CategoryId { get; set; }
+    [DisplayName("Endereco")]
+    public int EnderecoId { get; set; }
 }

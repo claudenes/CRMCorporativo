@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMCorporativo.Infra.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae1f9894a15c2aaed12e29d34961c1a7b703add5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d80cfbe8df334026def7cff207f80aaae00a0e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMCorporativo.Infra.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMCorporativo.Infra.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
