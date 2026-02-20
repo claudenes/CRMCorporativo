@@ -1,0 +1,23 @@
+﻿@model CRMCorporativo.Application.DTOs.ClienteDTO
+
+<h3>Product Details</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Nome)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Nome)</dd>
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.CPFCNPJ)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.CPFCNPJ)</dd>
+       
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.DataNascimento)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.DataNascimento)</dd>
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Email)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Email)</dd>
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Endereco)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Endereco.Logradouro)</dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
